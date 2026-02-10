@@ -50,7 +50,7 @@
 
 ---
 
-###  [Red Social](link-a-tu-repo)
+###  [Red Social] En desarrollo — Próximamente 
 > Red social con sistema de posts, likes, comentarios y seguimiento de usuarios
 
 **Stack:** React, Node.js, Express, MongoDB  
