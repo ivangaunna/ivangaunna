@@ -46,7 +46,7 @@
 -  Panel de administración
 -  Pasarela de pagos
 
-[🔗 Ver Demo](link-deploy) | [📂 Ver Código](link-repo)
+[🔗 Ver Demo](link-deploy) | [ Ver Código](https://github.com/ivangaunna/ecommerce-mern)
 
 ---
 
