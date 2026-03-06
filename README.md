@@ -65,21 +65,6 @@
 
 ---
 
-### 🎬 [ Gestor de Películas](link-a-tu-repo)
-> Aplicación para gestionar tu colección personal de películas
-
-**Stack:** React, LocalStorage  
-**Características:**
--  CRUD completo de películas
--  Buscador en tiempo real
--  Edición de películas
--  Persistencia con LocalStorage
--  Interfaz intuitiva
-
-[🔗 Ver Demo](link-deploy) | [📂 Ver Código](link-repo)
-
----
-
 ##  Habilidades Técnicas
 
 ### Desarrollo Full-Stack
