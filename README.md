@@ -50,28 +50,6 @@
 
 ---
 
-###  [Red Social] Improve 
-> Plataforma de red social completa con sistema de publicaciones, interacciones y seguimiento de usuarios.
-
-**Stack:** React, Node.js, Express, MongoDB  
-**Características:**
-- Autenticacion y autorizacion con JWT
-- Publicar posts con texto e imagenes
-- Sistema de likes y comentarios
-- Seguir y dejar de seguir usuarios
-- Feed personalizado con publicaciones de seguidos
-- Busqueda de publicaciones en tiempo real
-- Edicion de perfil con foto de usuario
-- Pagina de gente con modal de seguidores/seguidos estilo Twitter
-- Rutas protegidas con Context API global
-- Formularios con validacion usando Formik y Yup
-- Seguridad con Helmet y rate limiting
-- Diseño responsive para mobile y desktop
-
-[ Ver Demo](link-deploy) | [Ver Código](https://github.com/ivangaunna/Improve)
-
----
-
 ##  Habilidades Técnicas
 
 ### Desarrollo Full-Stack
