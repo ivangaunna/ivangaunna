@@ -40,7 +40,7 @@
 
 ## Proyectos Destacados
 
-### [E-Commerce Full-Stack](https://github.com/ivangaunna/ecommerce-mern)
+### [E-Commerce Full-Stack]
 > Plataforma de comercio electrónico completa con carrito de compras y gestión de productos
 
 **Stack:** React, Node.js, Express, MongoDB  
@@ -55,7 +55,7 @@
 
 ---
 
-### [AGO Training — Plataforma para Instructor](https://github.com/ivangaunna)
+### [AGO Training — Plataforma para Instructor]
 > Plataforma para venta de planes de entrenamiento personalizados
 
 **Stack:** Next.js 16, TypeScript, Tailwind CSS, shadcn/ui, Supabase  
