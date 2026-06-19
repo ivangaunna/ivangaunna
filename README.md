@@ -2,10 +2,10 @@
 
 ## Soy Ivan Gauna!
 
-### **  [Mi portfolio!](https://portfolio-lac-eight-40.vercel.app/)**
+###   [Click para ver mi portfolio!](https://portfolio-lac-eight-40.vercel.app/)
 **Técnico Universitario en Programación**  
 **Inglés B1**  
-### **  [Mi portfolio!](https://portfolio-lac-eight-40.vercel.app/)**
+
 ---
 
 
